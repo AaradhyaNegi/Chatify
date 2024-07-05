@@ -35,14 +35,7 @@ Firebase Cloud Messaging: Service for sending push notifications.
 Firebase Storage: Handles media uploads and management.
 
 ## Screenshots:
-Chat Screen:
-![chat screen](https://github.com/AaradhyaNegi/Chatify/assets/93624613/bf8af17c-8e92-4138-ae6c-a55ec01fac26)
+![photo-collage png](https://github.com/AaradhyaNegi/Chatify/assets/93624613/a91c8044-df53-4b61-b703-35f966542234)
 
 
-Login Screen:
-![Login Sreen](https://github.com/AaradhyaNegi/Chatify/assets/93624613/645b80c0-9a75-4b52-b15c-f792b8c084f9)
-
-
-Sign-Up Screen:
-![sign in](https://github.com/AaradhyaNegi/Chatify/assets/93624613/53decc2b-e82f-458d-a307-5cf16f9d1fcc)
 
