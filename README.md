@@ -39,20 +39,10 @@ Chat Screen:
 ![chat screen](https://github.com/AaradhyaNegi/Chatify/assets/93624613/bf8af17c-8e92-4138-ae6c-a55ec01fac26)
 
 
-
-
-
-
-
-Displays real-time conversations.
-Shows messages with user avatars and timestamps.
-
 Login Screen:
 ![Login Sreen](https://github.com/AaradhyaNegi/Chatify/assets/93624613/645b80c0-9a75-4b52-b15c-f792b8c084f9)
-Provides a simple and secure login interface.
-Includes options for creating a new account.
+
 
 Sign-Up Screen:
 ![sign in](https://github.com/AaradhyaNegi/Chatify/assets/93624613/53decc2b-e82f-458d-a307-5cf16f9d1fcc)
-Allows new users to create an account.
-Supports adding a profile picture during sign-up.
+
