@@ -37,6 +37,13 @@ Firebase Storage: Handles media uploads and management.
 ## Screenshots:
 Chat Screen:
 ![chat screen](https://github.com/AaradhyaNegi/Chatify/assets/93624613/bf8af17c-8e92-4138-ae6c-a55ec01fac26)
+
+
+
+
+
+
+
 Displays real-time conversations.
 Shows messages with user avatars and timestamps.
 
